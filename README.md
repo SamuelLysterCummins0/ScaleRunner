@@ -1,4 +1,6 @@
 # Scale Runner
+![image](https://github.com/user-attachments/assets/18dec876-3875-4a68-bede-963dd1087bb6)
+
 
 A dynamic 2D platformer game built in C++ using SFML where players control a size-shifting robot through an endless runner experience.
 
